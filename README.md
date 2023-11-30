@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @miralhamoudeh
 - 🌱 I’m currently studying Computer Science.  
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: miralh24597@gmail.com
 
 <!---
